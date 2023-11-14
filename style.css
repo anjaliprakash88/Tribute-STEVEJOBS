@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+.name
+{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+}
+.main
+{
+    background-color: white;
+    height: 350px;
+    margin-top: 30px;
+    position: relative;
+}
+.submain
+{
+    
+    display: flex;
+    justify-content: space-around;
+}
+.para
+{
+    margin-top: 150px;
+    margin-left: 150px;
+    font-size: 20px;
+}
+.bio{
+    color: white;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 50px;
+    text-align: justify;
+    margin-bottom: 25px;
+    border-bottom: 2px solid white;
+}
